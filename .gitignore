@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!*.py
+!*.md
+!.gitignore
+
+# Ignore directories
+!*/
