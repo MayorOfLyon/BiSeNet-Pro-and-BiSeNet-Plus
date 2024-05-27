@@ -2,8 +2,10 @@
 
 ## Dataset  
 Camvid dataset:https://drive.google.com/file/d/1KRRME_NtRG-iWOyLAb7gE-eA8fTeyzUR/view
+Cityscapes dataset:
 
 ## Demo  
+Use the following code for real-time semantic segmentation
 ```
 python demo.py
 ```  

@@ -229,7 +229,7 @@ if __name__ == '__main__':
         '--context_path', 'resnet18', 
         '--optimizer', 'sgd',
         '--num_workers', '1',
-        '--model', 'BiSeNet-plus'
+        '--model', 'BiSeNet-Pro'
     ]
     # params = [
     #     '--num_epochs', '300',
